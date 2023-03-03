@@ -1,0 +1,15 @@
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/bin/Debug/net6.0/CouponApp
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/bin/Debug/net6.0/CouponApp.deps.json
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/bin/Debug/net6.0/CouponApp.runtimeconfig.json
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/bin/Debug/net6.0/CouponApp.dll
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/bin/Debug/net6.0/CouponApp.pdb
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.csproj.AssemblyReference.cache
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.AssemblyInfoInputs.cache
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.AssemblyInfo.cs
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.csproj.CoreCompileInputs.cache
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.dll
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/refint/CouponApp.dll
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.pdb
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/CouponApp.genruntimeconfig.cache
+/Users/reymondpamelar/Desktop/TruData Internship/CouponApp/CouponApp/obj/Debug/net6.0/ref/CouponApp.dll
